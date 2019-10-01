@@ -1,0 +1,26 @@
+{
+frame_under_limit: {100}
+arc_length_under_limit: {50}
+speed_over_limit: {7.5}
+speed_under_limit: {0.1}
+frames_for_speed_calc: {100}
+unit conversion: [
+frame: {0.2, sec_Time}
+Speed: {0.052043176, mm-sec_Speed}
+AngularVelocity: {5, rad-sec_AngularVelocity}
+maxArclen: {0.010408635, mm_maxArclen}
+VelocityTailToHead: {0.052043176, mm-sec_VelocityTailToHead}]
+normalize: [
+a_1: {-12, 12}
+a_2: {-10, 10}
+a_3: {-17, 17}
+a_4: {-6, 6}
+a_5: {-4, 4}
+Speed: {0, 7.5}
+AngularVelocity: {-3.15, 3.15}
+VelocityTailToHead: {-8, 8}
+direction_angle: {-3.15, 3.15}
+direction_angle_velocity: {-3.15, 3.15}
+cos_direction: {-1.0, 1.0}
+sin_direction: {-1.0, 1.0}
+]}
